@@ -1,5 +1,8 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif) -->
-<h1 align="center">Hi 👋, I'm Lina Khedikar</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+<h1 align="center">I'm Lina Khedikar</h1>
 <h3 align="center">A Passionate Frontend Web Developer👩‍💻 </h3>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" alt="Coding" align="right" width="400" >
 
