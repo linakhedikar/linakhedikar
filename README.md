@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif) -->
 <h1 align="center">Hi 👋, I'm Lina Khedikar</h1>
-<h3 align="center">Tech enthusiast | Frontend Web Developer👩‍💻 | Learner</h3>
+<h3 align="center">A Passionate Frontend Web Developer👩‍💻 </h3>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" alt="Coding" align="right" width="400" >
 
 <h3 align="left">👩‍💻 About me:</h3>
