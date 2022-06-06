@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linakhedikar&show_icons=true&locale=en&theme=tokyonight" alt="linakhedikar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linakhedikar&&theme=tokyonight" alt="linakhedikar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linakhedikar&&theme=tokyonight" alt="linakhedikar" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1800px">
 
 <h3 align="left">🤝🏻Connect with me:</h3>
