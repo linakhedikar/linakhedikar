@@ -9,7 +9,7 @@
 <h3 align="left">👩‍💻 About me:</h3>
 
 - 😇&nbsp;Being a technology-enthusiast, I love learing new technologies and leveraging them to solve real life-problems.
-- 👩‍🎓 Pursuing B.Tech Degree in Computer Science.
+- 👩‍🎓 Completed B.Tech Degree in Computer Science.
 
 - 📚 I’m currently learning **Backend Technologies**
 
